@@ -26,3 +26,8 @@ Here is the live url of deployed application:
 
 ## Screenshots
 Please see below for the snapshots of two pages of note taker app:
+![alt=note-taker-mainPage](./utils/images/mainPage.PNG)
+
+* Notes Page
+
+![alt=note-taker-notesPage](./utils/images/notesPage.png)
