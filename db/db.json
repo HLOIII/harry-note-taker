@@ -1,19 +1,19 @@
 {
-    "notes": [
-        {
-            "title": "Hello",
-            "text": "Hello",
-            "id": "IGrFCYs3B"
-        },
-        {
-            "title": "Test",
-            "text": "test",
-            "id": "26l29jsze"
-        },
-        {
-            "title": "important",
-            "text": "important",
-            "id": "h1XU7E-gh"
-        }
-    ]
+  "notes": [
+    {
+      "title": "Hello",
+      "text": "Hello",
+      "id": "IGrFCYs3B"
+    },
+    {
+      "title": "Test",
+      "text": "test",
+      "id": "26l29jsze"
+    },
+    {
+      "title": "important",
+      "text": "important",
+      "id": "h1XU7E-gh"
+    }
+  ]
 }
